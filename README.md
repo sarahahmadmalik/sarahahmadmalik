@@ -31,7 +31,7 @@ I'm a passionate Computer Scientist and MERN Developer with a knack for creating
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahahmadmalik&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 
