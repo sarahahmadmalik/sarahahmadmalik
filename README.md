@@ -40,7 +40,7 @@
 
 ## 🎵 Now Playing on Spotify
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/4uce7wiipcdyz8iwwqg0vze3u?si=79da6af4fb914f8f)
 
 ## 📈 GitHub Stats
 
