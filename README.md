@@ -52,16 +52,6 @@ I'm a passionate Computer Scientist and MERN Developer with a knack for creating
   </a>
 </p>
 
-## 💼 Projects
-- [Project 1](https://github.com/yourusername/project1): Description of project 1
-- [Project 2](https://github.com/yourusername/project2): Description of project 2
-- [Project 3](https://github.com/yourusername/project3): Description of project 3
-
-## 📝 Latest Blog Posts
-- [Blog Post 1](https://yourblog.com/blog1): Brief description of blog post 1
-- [Blog Post 2](https://yourblog.com/blog2): Brief description of blog post 2
-- [Blog Post 3](https://yourblog.com/blog3): Brief description of blog post 3
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sarahahmadmalik.sarahahmadmalik)
 
 Thank you for visiting my profile! Feel free to connect with me.
