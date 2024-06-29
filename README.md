@@ -1,16 +1,14 @@
 # Hello, I'm Sara! 👋
-
-<span style="font-size: smaller; font-weight: bold;">I'm a passionate Computer Scientist, a Full Stack Developer, and a Cat Mom!</span>
+## I'm a passionate Computer Scientist, a Full Stack Developer and a Cat Mom!
 
 ![banner](https://github.com/sarahahmadmalik/sarahahmadmalik/assets/112407915/8f74f95d-fc3f-45f9-b1db-92f40fe1f825)
 
 ## 🌟 About Me
-- 🔭 I’m currently working on [Your Current Project/Company]
-- 🌱 I’m currently learning [New Technologies or Languages]
-- 👯 I’m looking to collaborate on interesting open source projects
-- 💬 Ask me about anything related to programming and software development
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: [An Interesting Fact About You]
+- 🔭 I’m currently exploring Generative AI and Machine Learning.
+- 👯 I’m looking to collaborate on interesting projects.
+- 💬 Ask me about anything related to Networking, Programming and Software Engineering.
+- 📫 You can reach out to me via Email or LinkedIn.
+- ⚡ Fun fact: I do pencil sketching and I love pets and cooking.
 
 ## 🛠️ Languages & Tools
 
@@ -35,21 +33,9 @@
 
 ## 🔗 Connect with Me
 
-<p align="left">
-  <a href="https://twitter.com/yourusername">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yourusername">
+<p align="left"
+  <a href="https://www.linkedin.com/in/sara-ahmad-malik-793429257/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://www.facebook.com/yourusername">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://www.instagram.com/yourusername">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://www.youtube.com/c/yourusername">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" alt="YouTube" width="40" height="40" style="margin-right: 20px;"/>
   </a>
 </p>
 
