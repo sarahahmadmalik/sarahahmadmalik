@@ -10,7 +10,7 @@
 - 📫 You can reach out to me via Email or LinkedIn.
 - ⚡ Fun fact: I do pencil sketching and I love pets and cooking.
 
-## 🛠️ Languages
+## 🛠️ Languages & Tools
 
 <p align="left">
   <a href="https://en.cppreference.com/w/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 20px;"/></a>
@@ -25,7 +25,13 @@
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin-right: 20px;"/></a>
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right: 20px;"/></a>
   <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 20px;"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VSCode" width="40" height="40" style="margin-right: 20px;"/></a>
+  <a href="https://visualstudio.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS" width="40" height="40" style="margin-right: 20px;"/></a>
+  <a href="https://vercel.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" style="margin-right: 20px;"/></a>
+  <a href="https://replit.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/replit/replit-original.svg" alt="Replit" width="40" height="40" style="margin-right: 20px;"/></a>
+  <a href="https://colab.research.google.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google Colab" width="40" height="40" style="margin-right: 20px;"/></a>
 </p>
+
 
 
 ## 📈 GitHub Stats
