@@ -38,6 +38,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahahmadmalik&layout=compact)
 
+## 🎵 Now Playing on Spotify
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahahmadmalik&show_icons=true&theme=radical)
