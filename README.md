@@ -25,11 +25,12 @@
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right: 20px;"/></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin-right: 20px;"/></a>
   <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 20px;"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" width="40" height="40" style="margin-right: 20px;"/></a>
-  <a href="https://visualstudio.microsoft.com/"><img src="https://simpleicons.org/icons/visualstudio.svg" alt="VS" width="40" height="40" style="margin-right: 20px;"/></a>
-  <a href="https://replit.com/"><img src="https://simpleicons.org/icons/replit.svg" alt="Replit" width="40" height="40" style="margin-right: 20px;"/></a>
-  <a href="https://colab.research.google.com/"><img src="https://simpleicons.org/icons/googlecolab.svg" alt="Google Colab" width="40" height="40" style="margin-right: 20px;"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40" style="margin-right: 20px;"/></a>
+  <a href="https://visualstudio.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="VS" width="40" height="40" style="margin-right: 20px;"/></a>
+  <a href="https://replit.com/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/replit-icon.png" alt="Replit" width="40" height="40" style="margin-right: 20px;"/></a>
+  <a href="https://colab.research.google.com/"><img src="https://www.tensorflow.org/images/colab/colab_favicon.ico" alt="Google Colab" width="40" height="40" style="margin-right: 20px;"/></a>
 </p>
+
 
 ## 📈 GitHub Stats
 
