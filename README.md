@@ -1,5 +1,6 @@
 # Hello, I'm Sara! 👋
-## I'm a passionate Computer Scientist, a Full Stack Developer and a Cat Mom!
+
+<span style="font-size: smaller; font-weight: bold;">I'm a passionate Computer Scientist, a Full Stack Developer, and a Cat Mom!</span>
 
 ![banner](https://github.com/sarahahmadmalik/sarahahmadmalik/assets/112407915/8f74f95d-fc3f-45f9-b1db-92f40fe1f825)
 
