@@ -31,9 +31,6 @@
   <a href="https://colab.research.google.com/"><img src="https://simpleicons.org/icons/googlecolab.svg" alt="Google Colab" width="40" height="40" style="margin-right: 20px;"/></a>
 </p>
 
-
-
-
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahahmadmalik&show_icons=true&theme=radical)
