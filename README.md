@@ -1,6 +1,6 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Sara! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300)
+![banner](https://github.com/sarahahmadmalik/sarahahmadmalik/assets/112407915/8f74f95d-fc3f-45f9-b1db-92f40fe1f825)
 
 I'm a passionate Computer Scientist and MERN Developer with a knack for creating innovative solutions. I enjoy working on diverse projects and am always eager to learn new technologies and improve my skill set.
 
