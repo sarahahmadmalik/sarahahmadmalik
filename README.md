@@ -1,8 +1,7 @@
 # Hello, I'm Sara! 👋
+## I'm a passionate Computer Scientist, a MERN Stack Developer and a Cat Mom!
 
 ![banner](https://github.com/sarahahmadmalik/sarahahmadmalik/assets/112407915/8f74f95d-fc3f-45f9-b1db-92f40fe1f825)
-
-I'm a passionate Computer Scientist, a MERN Stack Developer and a Cat Mom!
 
 ## 🌟 About Me
 - 🔭 I’m currently working on [Your Current Project/Company]
