@@ -10,7 +10,7 @@
 - 📫 You can reach out to me via Email or LinkedIn.
 - ⚡ Fun fact: I do pencil sketching and I love pets and cooking.
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages
 
 <p align="left">
   <a href="https://en.cppreference.com/w/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 20px;"/></a>
