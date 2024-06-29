@@ -52,6 +52,6 @@ I'm a passionate Computer Scientist and MERN Developer with a knack for creating
   </a>
 </p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sarahahmadmalik.sarahahmadmalik)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.sarahahmadmalik)
 
 Thank you for visiting my profile! Feel free to connect with me.
