@@ -1,59 +1,32 @@
-# Hello, I'm Sara! 👋
-## I'm a passionate Computer Scientist, a Full Stack Developer and a Cat Mom!
-[Portfolio Website](https://portfolio-sarahahmadmalikk-40a.vercel.app/)
+<h1 align="center">Hi 👋, I'm Sara!</h1>
+<h3 align="center">A passionate Computer Scientist, a Full Stack Developer and a Cat Mom!assionate frontend developer from India</h3>
 
-![banner](https://github.com/sarahahmadmalik/sarahahmadmalik/assets/112407915/8f74f95d-fc3f-45f9-b1db-92f40fe1f825)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarahahmadmalik&label=Profile%20views&color=0e75b6&style=flat" alt="sarahahmadmalik" /> </p>
 
-## 🌟 About Me
-- 🔭 I’m currently exploring Generative AI and Machine Learning.
-- 👯 I’m looking to collaborate on interesting projects.
-- 💬 Ask me about anything related to Networking, Programming and Software Engineering.
-- 📫 You can reach out to me via Email or LinkedIn.
-- ⚡ Fun fact: I do pencil sketching and I love pets and cooking.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarahahmadmalik" alt="sarahahmadmalik" /></a> </p>
 
-## 🛠️ Languages & Tools
+- 🔭 I’m currently working on **backend technologies and Gen AI**
 
+- 👯 I’m looking to collaborate on **any software development projects**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-sarahahmadmalikk-40a.vercel.app/](https://portfolio-sarahahmadmalikk-40a.vercel.app/)
+
+- 💬 Ask me about **Ask me about anything related to Networking, Programming and Software Engineering.**
+
+- 📫 How to reach me **sarahahmadmalik55@gmail.com**
+
+- ⚡ Fun fact **I do pencil sketching and I love pets and cooking.**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://en.cppreference.com/w/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 20px;"/></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 20px;"/></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 20px;"/></a>
-  <a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 20px;"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 20px;"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 20px;"/></a>
-  <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" style="margin-right: 20px;"/></a>
-  <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin-right: 20px;"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin-right: 20px;"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right: 20px;"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin-right: 20px;"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 20px;"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40" style="margin-right: 20px;"/></a>
-  <a href="https://visualstudio.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="VS" width="40" height="40" style="margin-right: 20px;"/></a>
-  <a href="https://replit.com/"><img src="https://pbs.twimg.com/profile_images/1356850098345478145/A_Qoi3Pd_400x400.jpg" alt="Replit" width="40" height="40" style="margin-right: 20px;"/></a>
-  <a href="https://colab.research.google.com/"><img src="https://colab.research.google.com/img/colab_favicon.ico" alt="Google Colab" width="40" height="40" style="margin-right: 20px;"/></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sara-ahmad-malik-793429257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sara-ahmad-malik-793429257/" height="30" width="40" /></a>
 </p>
 
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-## 📊 Most Used Languages
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarahahmadmalik&show_icons=true&locale=en&layout=compact" alt="sarahahmadmalik" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahahmadmalik&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahahmadmalik&show_icons=true&locale=en" alt="sarahahmadmalik" /></p>
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahahmadmalik&show_icons=true&theme=radical)
-
-## 🔗 Connect with Me
-
-<p align="left">
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sara-ahmad-malik-793429257/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" style="margin-right: 20px;"/>
-  </a>
-</p>
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
-
-Thank you for visiting my profile! Feel free to connect with me.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarahahmadmalik&" alt="sarahahmadmalik" /></p>
