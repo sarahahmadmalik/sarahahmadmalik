@@ -27,11 +27,16 @@
   <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 20px;"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40" style="margin-right: 20px;"/></a>
   <a href="https://visualstudio.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="VS" width="40" height="40" style="margin-right: 20px;"/></a>
-  <a href="https://replit.com/"><img src="https://pbs.twimg.com/profile_images/1356850098345478145/A_Qoi3Pd_400x400.jpg" alt="Replit" width="40" height="40" style="margin-right: 20px;"/></a>
-  <a href="https://colab.research.google.com/"><img src="https://colab.research.google.com/img/colab_favicon.ico" alt="Google Colab" width="40" height="40" style="margin-right: 20px;"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="40" height="40" style="margin-right: 20px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="margin-right: 20px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="margin-right: 20px;"/></a>
+  <a href="https://jestjs.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40" style="margin-right: 20px;"/></a>
+  <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="margin-right: 20px;"/></a>
+  <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="margin-right: 20px;"/></a>
+  <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" style="margin-right: 20px;"/></a>
+  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40" style="margin-right: 20px;"/></a>
 </p>
 
-</p>
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=sarahahmadmalik&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
