@@ -1,11 +1,11 @@
 # Hello, I'm Sara! 👋
-## I'm a passionate Computer Scientist, a Full Stack Developer and a Cat Mom!
+## I'm a passionate Computer Scientist, a Mern Stack Developer and a Cat Mom!
 [Portfolio Website](https://portfolio-sarahahmadmalikk-40a.vercel.app/)
 
 ![banner](https://github.com/sarahahmadmalik/sarahahmadmalik/assets/112407915/8f74f95d-fc3f-45f9-b1db-92f40fe1f825)
 
 ## 🌟 About Me
-- 🔭 I’m currently exploring Generative AI and Machine Learning.
+- 🔭 I’m currently working on backend development.
 - 👯 I’m looking to collaborate on interesting projects.
 - 💬 Ask me about anything related to Networking, Programming and Software Engineering.
 - 📫 You can reach out to me via Email or LinkedIn.
