@@ -1,43 +1,116 @@
-# Hello, I'm Sara! 👋
-## I'm a passionate Computer Scientist, a Mern Stack Developer and a Cat Mom!
-[Portfolio Website](https://sara-ahmad-malik.vercel.app/)
+<div align="center">
 
-![banner](https://github.com/sarahahmadmalik/sarahahmadmalik/assets/112407915/8f74f95d-fc3f-45f9-b1db-92f40fe1f825)
+<h1 align="center">Hello, I'm Sara! 👋</h1>
+<h3 align="center">I'm a passionate Computer Scientist, a Full Stack Engineer and a Cat Mom!</h3>
 
-## 🌟 About Me
-- 🔭 I’m currently working on backend development.
-- 👯 I’m looking to collaborate on interesting projects.
-- 💬 Ask me about anything related to Networking, Programming and Software Engineering.
-- 📫 You can reach out to me via Email or LinkedIn.
-- ⚡ Fun fact: I do pencil sketching and I love pets and cooking
+<img src="https://github.com/sarahahmadmalik/sarahahmadmalik/assets/112407915/8f74f95d-fc3f-45f9-b1db-92f40fe1f825" alt="banner" width="100%"/>
 
-## 💻 Tech Stack
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br/>
 
+<a href="https://sara-ahmad-malik.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-8b5cf6?style=for-the-badge" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/sara-ahmad-malik-793429257/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge" alt="LinkedIn"/>
+</a>
+<a href="mailto:sarahahmadmalik00@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge" alt="Email"/>
+</a>
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sarahahmadmalik&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sarahahmadmalik&theme=default&hide_border=false)<br/>
-
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahahmadmalik&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sarahahmadmalik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🔗 Connect with Me
-
-<p align="left">
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sara-ahmad-malik-793429257/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" style="margin-right: 20px;"/>
-  </a>
-</p>
+</div>
 
 ---
-[![Visitor Badge](https://visitcount.itsvg.in/api?id=sarahahmadmalik&icon=6&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I'm a Full Stack Engineer with a Computer Science background. I design and build complete web applications, from the database and API layer through to the user interface, with a strong emphasis on clean architecture, performance and security.
+
+My current focus is on **artificial intelligence** and **application security**. I'm interested in how AI-powered systems are built, where they can fail or be attacked, and how to design the surrounding software so it stays safe and trustworthy.
+
+- Currently working on AI and application security
+- Looking to collaborate on interesting projects in AI, security and backend engineering
+- Ask me about networking, programming, software engineering and web security
+- Reach me by email or LinkedIn
+- Outside of code: pencil sketching, cooking, and a love for pets, especially my cats
+
+## What I Do
+
+| Area | What it covers |
+| --- | --- |
+| **Full Stack Engineering** | End-to-end web applications with React and Next.js on the frontend and Node.js, NestJS, Express and ASP.NET on the backend |
+| **Backend and API Design** | REST and GraphQL APIs, authentication and authorization, data modeling, service architecture |
+| **Databases** | PostgreSQL, MongoDB, MySQL and Redis; schema design, querying and ORM usage with Prisma |
+| **Application Security** | Secure coding practices, the OWASP Top 10, API security, input validation, session and token handling |
+| **Artificial Intelligence** | Machine learning fundamentals, LLM-powered applications, and the security and safety of AI systems |
+| **Testing and Delivery** | Unit and API testing with Jest and Postman, Git workflows, containerization with Docker, cloud deployment |
+
+## Currently Working On
+
+- Building a deeper understanding of **application security**: threat modeling, vulnerability assessment and secure design
+- Studying **AI security**: prompt injection, data leakage, model abuse and safe integration of LLMs into applications
+- Strengthening **backend engineering** skills across Node.js, NestJS and ASP.NET
+
+## Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,cs,php,bash&theme=dark" alt="languages"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,vite&theme=dark" alt="frontend"/>
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,graphql,fastapi&theme=dark" alt="backend"/>
+
+**Databases and ORMs**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma&theme=dark" alt="databases"/>
+
+**Testing and API Tools**
+
+<img src="https://skillicons.dev/icons?i=postman,jest&theme=dark" alt="testing"/>
+
+**DevOps and Cloud**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,gcp,aws,nginx,linux,vercel&theme=dark" alt="devops"/>
+
+**Security and AI**
+
+<img src="https://skillicons.dev/icons?i=kali,tensorflow,pytorch&theme=dark" alt="security and ai"/>
+
+OWASP · Burp Suite · Threat Modeling · Machine Learning
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sarahahmadmalik&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahahmadmalik&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=sarahahmadmalik&theme=radical&hide_border=true" alt="GitHub streak"/>
+
+</div>
+
+## Open To
+
+- Collaboration on projects in AI, application security and full stack engineering
+- Conversations about secure software design and backend architecture
+- Learning from and sharing knowledge with other engineers
+
+## Connect with Me
+
+<p align="center">
+  <a href="mailto:sarahahmadmalik00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sara-ahmad-malik-793429257/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://sara-ahmad-malik.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge" alt="Portfolio"/>
+  </a>
+</p>
